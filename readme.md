@@ -37,10 +37,10 @@ First star ⭐ & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### ❄ PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://ultra-scanner.onrender.com)
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://ultraxas-scanner.onrender.com/)
 
 #### ❄ OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://ultra-scanner.onrender.com)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://ultraxas-scanner.onrender.com/)
 
 > If connection fails, try again with VPN enabled.
 
